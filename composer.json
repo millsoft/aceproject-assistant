@@ -1,0 +1,13 @@
+{
+    "name": "millsoft/aceproject-assistant",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Michael Milawski",
+            "email": "michael.milawski@planet-itservices.com"
+        }
+    ],
+    "require": {
+        "millsoft/aceproject": "^0.11.0"
+    }
+}
